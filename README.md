@@ -2,7 +2,7 @@
 
 ### [EEE-2002]. Digital Systems
 111 Sequence Detector fed by a Serial Shift Register Using JK Flip-Flops
-[[DESIGN. DS. 111 Detector. Diagram.jpg]]
+![image]([EEE-2002].%20Digital Systems/DESIGN.%20DS.%20111%20Detector.%20Diagram.jpg)
 
 
 ### [EEE-2004]. Circuit Analysis II
