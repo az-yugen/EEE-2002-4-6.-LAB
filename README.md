@@ -7,7 +7,7 @@
 
 ### [EEE-2004]. Circuit Analysis II
 Cascaded Active Low-Pass Filter as Double Integrator
-![image](./[EEE-2004].%20Circuit Analysis%20II/diagram.jpg)
+![](<[EEE-2004]. Circuit Analysis II/diagram.jpg>)
 
 
 ### [EEE-2006]. Electronics II
