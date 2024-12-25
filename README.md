@@ -12,11 +12,11 @@ Cascaded Active Low-Pass Filter as Double Integrator
 ![](<EEE-2004. Circuit Analysis II/diagram.jpg>)
 
 <div align="center">
-    <img width="800" src="./EEE-2004. Circuit Analysis II/breadboard.jpg">
+    <img width="600" src="./EEE-2004. Circuit Analysis II/breadboard.jpg">
 </div>
 
 <div align="center">
-    <img width="700" src="./EEE-2004. Circuit Analysis II/osc.jpg">
+    <img width="500" src="./EEE-2004. Circuit Analysis II/osc.jpg">
 </div>
 
 
@@ -26,9 +26,9 @@ JFET Amplified 2-Channel Active Signal Mixer
 ![](<EEE-2006. Electronics II/diagram.jpg>)
 
 <div align="center">
-    <img width="700" src="./EEE-2006. Electronics II/breadboard.jpg">
+    <img width="500" src="./EEE-2006. Electronics II/breadboard.jpg">
 </div>
 
 <div align="center">
-    <img width="700" src="./EEE-2006. Electronics II/osc.jpg">
+    <img width="600" src="./EEE-2006. Electronics II/osc.jpg">
 </div>
